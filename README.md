@@ -76,4 +76,4 @@ Análise de Requisitos
 
 Resolução de Problemas
 
-Git & GitHub
+Git & GitHub.
