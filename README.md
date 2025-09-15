@@ -57,8 +57,8 @@ Para importar esta collection no Postman e testá-la você mesmo:
 1- Clone o Repositório:
 
 Bash
-
 git clone https://github.com/AndersoonDev/postman-API-conduit.git
+
 2- Importe no Postman: Abra o Postman e clique em Import e selecione o arquivo API-Conduit.postman_collection.json que você clonou.
 
 3- Execute as Requisições: A collection está pronta para ser executada. 
