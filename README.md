@@ -13,6 +13,7 @@ Descrição: Testes para a API do projeto RealWorld, cobrindo uma ampla gama de 
 As requisições estão organizadas em pastas para facilitar a navegação e a execução de testes de ponta a ponta.
 
 Endpoints Testados:
+Conduit API Checklist: https://docs.google.com/spreadsheets/d/1xmtF_quCve4se67Ba_q6kEhxYGmtYlIA1SsSRaIgKIM/edit?gid=0#gid=0
 
 Autenticação de usuário:
 POST /users/login
